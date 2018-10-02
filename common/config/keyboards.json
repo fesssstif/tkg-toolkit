@@ -173,6 +173,7 @@
 		],
 		"firmware": [
 			{ "name": "Default", "mcu": "atmega32u4", "file": "ergodone.hex" },
+			{ "name": "fesssstif", "mcu": "atmega32u4", "file": "ergodone-fesssstif.hex" },
 			{ "name": "Prototype", "mcu": "atmega32u4", "file": "ergodone-prototype.hex" }
 		]
 	},
